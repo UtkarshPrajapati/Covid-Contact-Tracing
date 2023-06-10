@@ -19,5 +19,4 @@ for name in names:
             "latitude": str(latitude),
             "longitude": str(longitude)
         })
-
 print(data)
