@@ -1,7 +1,7 @@
 import random
 import time
 from datetime import datetime, timedelta
-names = ["David", "Frank", "Carol", "Ivan", "Erin", "Bob", "Grace", "Alice", "Judy"]
+names = ["David", "Frank", "Carol", "Ivan", "Erin", "Bob", "Grace", "Alice", "Judy","Heidi"]
 start_date = datetime(2020, 7, 4)
 end_date = datetime(2020, 7, 5)
 lat_range = [13.0, 13.3]
